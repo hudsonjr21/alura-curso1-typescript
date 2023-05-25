@@ -2,7 +2,9 @@
     "typescript.tsdk": "node_modules/typescript/lib",
     "cSpell.words": [
         "alurabank",
+        "Formulario",
         "negociacao",
-        "Negociacao"
+        "Negociacao",
+        "sumit"
     ]
 }
